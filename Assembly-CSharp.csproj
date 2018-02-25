@@ -46,7 +46,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Coin_Script.cs" />
+     <Compile Include="Assets\Scripts\Jugador.cs" />
      <Compile Include="Assets\Scripts\LoadSceneByIndex.cs" />
+     <Compile Include="Assets\Scripts\Shield_Script.cs" />
      <Compile Include="Assets\Unity Sample UI\Scripts\ActiveStateToggler.cs" />
      <Compile Include="Assets\Unity Sample UI\Scripts\ApplicationManager.cs" />
      <Compile Include="Assets\Unity Sample UI\Scripts\ChangeColor.cs" />
